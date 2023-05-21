@@ -2,7 +2,7 @@ import openai
 import json
 
 # Set up OpenAI API key
-openai.api_key = "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"
+openai.api_key = ""
 
 # Define additional data to be used for fine-tuning
 additional_data = ""
