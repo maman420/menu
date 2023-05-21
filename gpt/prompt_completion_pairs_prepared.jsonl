@@ -1,0 +1,400 @@
+{"prompt":"Mushroom, White Pizza would like, but not White Pizza. -->","completion":" BBQ Burger, Veggie, Double Cheeseburger. ###"}
+{"prompt":"Mushroom, Classic Burger, Bison Burger would like, but not Bison Burger. -->","completion":" Margherita, Veggie Burger, Bacon Cheeseburger. ###"}
+{"prompt":"Veggie would like, but not Veggie. -->","completion":" Mushroom Swiss Burger, Supreme, Bacon Cheeseburger. ###"}
+{"prompt":"Mushroom Swiss Burger, Hawaiian, Meat Lovers would like, but not Meat Lovers. -->","completion":" Bison Burger, Buffalo Chicken, Veggie. ###"}
+{"prompt":"Double Cheeseburger, Veggie, Veggie Burger would like, but not Veggie Burger. -->","completion":" BBQ Chicken, Bacon Cheeseburger, Bison Burger. ###"}
+{"prompt":"Veggie, White Pizza, Bison Burger would like, but not Bison Burger. -->","completion":" Supreme, Mushroom, Classic Burger. ###"}
+{"prompt":"Buffalo Chicken, Classic Burger would like, but not Classic Burger. -->","completion":" Mushroom, Double Cheeseburger, Hawaiian. ###"}
+{"prompt":"Buffalo Chicken, Veggie, Veggie Burger would like, but not Veggie Burger. -->","completion":" Hawaiian, BBQ Burger, Supreme. ###"}
+{"prompt":"Veggie, Classic Burger, Bacon Cheeseburger would like, but not Bacon Cheeseburger. -->","completion":" White Pizza, Buffalo Chicken, Veggie Burger. ###"}
+{"prompt":"Margherita would like, but not Margherita. -->","completion":" Meat Lovers, Supreme, Bacon Cheeseburger. ###"}
+{"prompt":"Mushroom, Double Cheeseburger would like, but not Double Cheeseburger. -->","completion":" White Pizza, Meat Lovers, BBQ Burger. ###"}
+{"prompt":"BBQ Burger would like, but not BBQ Burger. -->","completion":" Buffalo Chicken, Meat Lovers, Double Cheeseburger. ###"}
+{"prompt":"Pepperoni would like, but not Pepperoni. -->","completion":" Hawaiian, BBQ Burger, Classic Burger. ###"}
+{"prompt":"White Pizza, Veggie, Buffalo Chicken would like, but not Buffalo Chicken. -->","completion":" Margherita, Double Cheeseburger, Pepperoni. ###"}
+{"prompt":"BBQ Chicken, White Pizza, Supreme would like, but not Supreme. -->","completion":" Margherita, Buffalo Chicken, Veggie Burger. ###"}
+{"prompt":"Meat Lovers would like, but not Meat Lovers. -->","completion":" Mushroom Swiss Burger, Veggie, Bacon Cheeseburger. ###"}
+{"prompt":"Bison Burger, Meat Lovers would like, but not Meat Lovers. -->","completion":" Double Cheeseburger, Veggie Burger, Margherita. ###"}
+{"prompt":"BBQ Burger, Supreme would like, but not Supreme. -->","completion":" Bacon Cheeseburger, Hawaiian, Pepperoni. ###"}
+{"prompt":"Supreme would like, but not Supreme. -->","completion":" Hawaiian, Classic Burger, BBQ Burger. ###"}
+{"prompt":"Double Cheeseburger, Bacon Cheeseburger, Margherita would like, but not Margherita. -->","completion":" Veggie, Supreme, Hawaiian. ###"}
+{"prompt":"Buffalo Chicken, Supreme would like, but not Supreme. -->","completion":" Bacon Cheeseburger, Hawaiian, Mushroom. ###"}
+{"prompt":"White Pizza, Meat Lovers would like, but not Meat Lovers. -->","completion":" BBQ Chicken, Mushroom, Veggie. ###"}
+{"prompt":"Classic Burger, Margherita, Bacon Cheeseburger would like, but not Bacon Cheeseburger. -->","completion":" Meat Lovers, Mushroom Swiss Burger, Supreme. ###"}
+{"prompt":"Hawaiian would like, but not Hawaiian. -->","completion":" Classic Burger, Buffalo Chicken, White Pizza. ###"}
+{"prompt":"Bison Burger would like, but not Bison Burger. -->","completion":" Meat Lovers, Bacon Cheeseburger, Double Cheeseburger. ###"}
+{"prompt":"Meat Lovers, Bison Burger, Classic Burger would like, but not Classic Burger. -->","completion":" BBQ Chicken, Pepperoni, Buffalo Chicken. ###"}
+{"prompt":"Buffalo Chicken, Meat Lovers, Bison Burger would like, but not Bison Burger. -->","completion":" Mushroom Swiss Burger, Veggie, Veggie Burger. ###"}
+{"prompt":"Bacon Cheeseburger would like, but not Bacon Cheeseburger. -->","completion":" Veggie, Supreme, Veggie Burger. ###"}
+{"prompt":"Pepperoni would like, but not Pepperoni. -->","completion":" Mushroom, Bison Burger, Mushroom Swiss Burger. ###"}
+{"prompt":"Supreme, BBQ Chicken would like, but not BBQ Chicken. -->","completion":" Bacon Cheeseburger, Mushroom Swiss Burger, White Pizza. ###"}
+{"prompt":"BBQ Chicken, White Pizza would like, but not White Pizza. -->","completion":" BBQ Burger, Margherita, Double Cheeseburger. ###"}
+{"prompt":"BBQ Burger, Meat Lovers would like, but not Meat Lovers. -->","completion":" Mushroom, White Pizza, Veggie Burger. ###"}
+{"prompt":"Supreme, Bacon Cheeseburger would like, but not Bacon Cheeseburger. -->","completion":" Mushroom Swiss Burger, Veggie, Meat Lovers. ###"}
+{"prompt":"BBQ Chicken, Veggie would like, but not Veggie. -->","completion":" Mushroom Swiss Burger, Meat Lovers, Hawaiian. ###"}
+{"prompt":"Meat Lovers would like, but not Meat Lovers. -->","completion":" Buffalo Chicken, Bison Burger, Margherita. ###"}
+{"prompt":"Mushroom Swiss Burger would like, but not Mushroom Swiss Burger. -->","completion":" Classic Burger, Veggie Burger, Veggie. ###"}
+{"prompt":"Pepperoni, Mushroom would like, but not Mushroom. -->","completion":" Supreme, Bison Burger, Classic Burger. ###"}
+{"prompt":"Mushroom, Supreme would like, but not Supreme. -->","completion":" White Pizza, BBQ Chicken, Double Cheeseburger. ###"}
+{"prompt":"Bacon Cheeseburger, Veggie Burger, Margherita would like, but not Margherita. -->","completion":" Mushroom Swiss Burger, BBQ Chicken, Mushroom. ###"}
+{"prompt":"BBQ Burger, Veggie Burger, Margherita would like, but not Margherita. -->","completion":" Hawaiian, Supreme, White Pizza. ###"}
+{"prompt":"Mushroom Swiss Burger, Hawaiian would like, but not Hawaiian. -->","completion":" Double Cheeseburger, Supreme, Bison Burger. ###"}
+{"prompt":"Bison Burger, Buffalo Chicken, Pepperoni would like, but not Pepperoni. -->","completion":" Meat Lovers, BBQ Chicken, BBQ Burger. ###"}
+{"prompt":"Hawaiian would like, but not Hawaiian. -->","completion":" Double Cheeseburger, Supreme, Veggie Burger. ###"}
+{"prompt":"Bison Burger, Veggie Burger, Hawaiian would like, but not Hawaiian. -->","completion":" Classic Burger, White Pizza, Bacon Cheeseburger. ###"}
+{"prompt":"Hawaiian, Veggie Burger would like, but not Veggie Burger. -->","completion":" Bacon Cheeseburger, BBQ Burger, Margherita. ###"}
+{"prompt":"Veggie Burger would like, but not Veggie Burger. -->","completion":" Mushroom, Meat Lovers, Bacon Cheeseburger. ###"}
+{"prompt":"Mushroom, Double Cheeseburger, Meat Lovers would like, but not Meat Lovers. -->","completion":" BBQ Burger, Hawaiian, Bacon Cheeseburger. ###"}
+{"prompt":"Bison Burger would like, but not Bison Burger. -->","completion":" Hawaiian, Double Cheeseburger, BBQ Chicken. ###"}
+{"prompt":"Buffalo Chicken, White Pizza would like, but not White Pizza. -->","completion":" Classic Burger, BBQ Burger, Veggie. ###"}
+{"prompt":"Pepperoni would like, but not Pepperoni. -->","completion":" Double Cheeseburger, Veggie Burger, Hawaiian. ###"}
+{"prompt":"Bison Burger, Veggie Burger, Buffalo Chicken would like, but not Buffalo Chicken. -->","completion":" White Pizza, Bacon Cheeseburger, Margherita. ###"}
+{"prompt":"Hawaiian would like, but not Hawaiian. -->","completion":" Mushroom Swiss Burger, Meat Lovers, Veggie Burger. ###"}
+{"prompt":"Veggie, Bacon Cheeseburger, BBQ Chicken would like, but not BBQ Chicken. -->","completion":" Double Cheeseburger, Meat Lovers, White Pizza. ###"}
+{"prompt":"Mushroom, Double Cheeseburger would like, but not Double Cheeseburger. -->","completion":" White Pizza, Bacon Cheeseburger, Veggie Burger. ###"}
+{"prompt":"Buffalo Chicken would like, but not Buffalo Chicken. -->","completion":" Classic Burger, Pepperoni, Mushroom Swiss Burger. ###"}
+{"prompt":"Margherita, Bacon Cheeseburger would like, but not Bacon Cheeseburger. -->","completion":" BBQ Chicken, Mushroom Swiss Burger, Buffalo Chicken. ###"}
+{"prompt":"Margherita, Mushroom Swiss Burger, Bacon Cheeseburger would like, but not Bacon Cheeseburger. -->","completion":" Buffalo Chicken, Meat Lovers, Bison Burger. ###"}
+{"prompt":"Bison Burger, Pepperoni would like, but not Pepperoni. -->","completion":" Bacon Cheeseburger, Mushroom, Meat Lovers. ###"}
+{"prompt":"BBQ Chicken would like, but not BBQ Chicken. -->","completion":" Veggie Burger, Double Cheeseburger, Mushroom. ###"}
+{"prompt":"Supreme, Mushroom would like, but not Mushroom. -->","completion":" Meat Lovers, White Pizza, Buffalo Chicken. ###"}
+{"prompt":"Mushroom would like, but not Mushroom. -->","completion":" Veggie Burger, Double Cheeseburger, BBQ Chicken. ###"}
+{"prompt":"BBQ Chicken, Hawaiian, Mushroom Swiss Burger would like, but not Mushroom Swiss Burger. -->","completion":" Buffalo Chicken, Mushroom, BBQ Burger. ###"}
+{"prompt":"Bison Burger would like, but not Bison Burger. -->","completion":" BBQ Burger, Veggie Burger, Mushroom Swiss Burger. ###"}
+{"prompt":"Classic Burger would like, but not Classic Burger. -->","completion":" Buffalo Chicken, Hawaiian, Veggie. ###"}
+{"prompt":"Veggie would like, but not Veggie. -->","completion":" BBQ Burger, Double Cheeseburger, Bacon Cheeseburger. ###"}
+{"prompt":"Hawaiian, Buffalo Chicken would like, but not Buffalo Chicken. -->","completion":" Bison Burger, Pepperoni, BBQ Chicken. ###"}
+{"prompt":"Supreme, Bacon Cheeseburger would like, but not Bacon Cheeseburger. -->","completion":" Bison Burger, Classic Burger, Mushroom Swiss Burger. ###"}
+{"prompt":"Bacon Cheeseburger, Mushroom, Veggie Burger would like, but not Veggie Burger. -->","completion":" Bison Burger, BBQ Burger, Classic Burger. ###"}
+{"prompt":"Supreme, Veggie Burger, Margherita would like, but not Margherita. -->","completion":" BBQ Chicken, Pepperoni, Meat Lovers. ###"}
+{"prompt":"Buffalo Chicken, Veggie would like, but not Veggie. -->","completion":" Mushroom, Bacon Cheeseburger, BBQ Chicken. ###"}
+{"prompt":"Classic Burger, Hawaiian, White Pizza would like, but not White Pizza. -->","completion":" Mushroom Swiss Burger, Supreme, Bacon Cheeseburger. ###"}
+{"prompt":"Bison Burger would like, but not Bison Burger. -->","completion":" Hawaiian, White Pizza, BBQ Burger. ###"}
+{"prompt":"White Pizza, Buffalo Chicken would like, but not Buffalo Chicken. -->","completion":" Pepperoni, Mushroom Swiss Burger, Margherita. ###"}
+{"prompt":"BBQ Burger, Supreme, Double Cheeseburger would like, but not Double Cheeseburger. -->","completion":" Margherita, Hawaiian, BBQ Chicken. ###"}
+{"prompt":"Buffalo Chicken, BBQ Chicken would like, but not BBQ Chicken. -->","completion":" Meat Lovers, Pepperoni, Supreme. ###"}
+{"prompt":"Margherita, Supreme, Veggie Burger would like, but not Veggie Burger. -->","completion":" White Pizza, BBQ Chicken, Mushroom Swiss Burger. ###"}
+{"prompt":"Classic Burger, BBQ Burger would like, but not BBQ Burger. -->","completion":" Mushroom Swiss Burger, Margherita, Double Cheeseburger. ###"}
+{"prompt":"Mushroom Swiss Burger, Buffalo Chicken, Margherita would like, but not Margherita. -->","completion":" Mushroom, BBQ Burger, Double Cheeseburger. ###"}
+{"prompt":"Buffalo Chicken, Bison Burger would like, but not Bison Burger. -->","completion":" Veggie Burger, Hawaiian, Mushroom Swiss Burger. ###"}
+{"prompt":"Veggie Burger would like, but not Veggie Burger. -->","completion":" Supreme, BBQ Burger, BBQ Chicken. ###"}
+{"prompt":"Double Cheeseburger, Meat Lovers, BBQ Chicken would like, but not BBQ Chicken. -->","completion":" Mushroom, Bison Burger, Veggie. ###"}
+{"prompt":"BBQ Burger, Mushroom Swiss Burger, Supreme would like, but not Supreme. -->","completion":" Double Cheeseburger, Veggie, Hawaiian. ###"}
+{"prompt":"Supreme, Classic Burger would like, but not Classic Burger. -->","completion":" BBQ Burger, Veggie, Buffalo Chicken. ###"}
+{"prompt":"Bacon Cheeseburger would like, but not Bacon Cheeseburger. -->","completion":" Veggie Burger, BBQ Chicken, Classic Burger. ###"}
+{"prompt":"Mushroom, Double Cheeseburger would like, but not Double Cheeseburger. -->","completion":" Bison Burger, Supreme, White Pizza. ###"}
+{"prompt":"Mushroom, Buffalo Chicken would like, but not Buffalo Chicken. -->","completion":" Mushroom Swiss Burger, White Pizza, Pepperoni. ###"}
+{"prompt":"Bacon Cheeseburger, Double Cheeseburger, Pepperoni would like, but not Pepperoni. -->","completion":" BBQ Chicken, Veggie Burger, Supreme. ###"}
+{"prompt":"Supreme, Classic Burger would like, but not Classic Burger. -->","completion":" BBQ Burger, Bison Burger, Bacon Cheeseburger. ###"}
+{"prompt":"BBQ Chicken, Margherita would like, but not Margherita. -->","completion":" Veggie Burger, White Pizza, Pepperoni. ###"}
+{"prompt":"Veggie, BBQ Chicken would like, but not BBQ Chicken. -->","completion":" BBQ Burger, Meat Lovers, Buffalo Chicken. ###"}
+{"prompt":"White Pizza, Buffalo Chicken, Supreme would like, but not Supreme. -->","completion":" BBQ Burger, Veggie Burger, Hawaiian. ###"}
+{"prompt":"Pepperoni, Meat Lovers would like, but not Meat Lovers. -->","completion":" Veggie, Mushroom Swiss Burger, Classic Burger. ###"}
+{"prompt":"Mushroom, Hawaiian would like, but not Hawaiian. -->","completion":" White Pizza, Pepperoni, Buffalo Chicken. ###"}
+{"prompt":"Supreme would like, but not Supreme. -->","completion":" Classic Burger, Margherita, BBQ Chicken. ###"}
+{"prompt":"BBQ Burger would like, but not BBQ Burger. -->","completion":" Veggie, Classic Burger, Bison Burger. ###"}
+{"prompt":"Hawaiian, White Pizza would like, but not White Pizza. -->","completion":" BBQ Burger, Bison Burger, Supreme. ###"}
+{"prompt":"BBQ Chicken would like, but not BBQ Chicken. -->","completion":" Margherita, Mushroom Swiss Burger, Bacon Cheeseburger. ###"}
+{"prompt":"Double Cheeseburger, BBQ Chicken, Bison Burger would like, but not Bison Burger. -->","completion":" Pepperoni, Hawaiian, Supreme. ###"}
+{"prompt":"White Pizza would like, but not White Pizza. -->","completion":" Classic Burger, Supreme, BBQ Burger. ###"}
+{"prompt":"Buffalo Chicken, Veggie Burger, Bacon Cheeseburger would like, but not Bacon Cheeseburger. -->","completion":" Hawaiian, BBQ Chicken, BBQ Burger. ###"}
+{"prompt":"Bison Burger, Veggie would like, but not Veggie. -->","completion":" BBQ Chicken, BBQ Burger, Supreme. ###"}
+{"prompt":"Margherita would like, but not Margherita. -->","completion":" Meat Lovers, Buffalo Chicken, BBQ Burger. ###"}
+{"prompt":"BBQ Burger, Classic Burger would like, but not Classic Burger. -->","completion":" Supreme, Margherita, Double Cheeseburger. ###"}
+{"prompt":"Bison Burger would like, but not Bison Burger. -->","completion":" BBQ Chicken, Classic Burger, Pepperoni. ###"}
+{"prompt":"Mushroom would like, but not Mushroom. -->","completion":" Margherita, White Pizza, Pepperoni. ###"}
+{"prompt":"Mushroom Swiss Burger, Hawaiian, Margherita would like, but not Margherita. -->","completion":" White Pizza, BBQ Chicken, Meat Lovers. ###"}
+{"prompt":"Veggie, BBQ Burger would like, but not BBQ Burger. -->","completion":" Bison Burger, Margherita, Buffalo Chicken. ###"}
+{"prompt":"Double Cheeseburger would like, but not Double Cheeseburger. -->","completion":" Buffalo Chicken, Margherita, Veggie Burger. ###"}
+{"prompt":"Mushroom Swiss Burger, Double Cheeseburger would like, but not Double Cheeseburger. -->","completion":" Meat Lovers, BBQ Burger, Margherita. ###"}
+{"prompt":"BBQ Chicken would like, but not BBQ Chicken. -->","completion":" Pepperoni, Hawaiian, Margherita. ###"}
+{"prompt":"Veggie Burger, Veggie would like, but not Veggie. -->","completion":" Pepperoni, Supreme, Hawaiian. ###"}
+{"prompt":"Supreme, BBQ Burger would like, but not BBQ Burger. -->","completion":" Classic Burger, BBQ Chicken, Double Cheeseburger. ###"}
+{"prompt":"Hawaiian, Margherita, Mushroom would like, but not Mushroom. -->","completion":" Veggie, Meat Lovers, Bison Burger. ###"}
+{"prompt":"BBQ Chicken, Double Cheeseburger would like, but not Double Cheeseburger. -->","completion":" Veggie, Buffalo Chicken, Meat Lovers. ###"}
+{"prompt":"Pepperoni, BBQ Chicken would like, but not BBQ Chicken. -->","completion":" Mushroom, Supreme, Buffalo Chicken. ###"}
+{"prompt":"Veggie Burger would like, but not Veggie Burger. -->","completion":" Bison Burger, Hawaiian, BBQ Burger. ###"}
+{"prompt":"Veggie Burger would like, but not Veggie Burger. -->","completion":" Meat Lovers, Bacon Cheeseburger, Mushroom. ###"}
+{"prompt":"Mushroom, Supreme, Buffalo Chicken would like, but not Buffalo Chicken. -->","completion":" Bison Burger, Double Cheeseburger, Veggie. ###"}
+{"prompt":"Veggie, Double Cheeseburger, Pepperoni would like, but not Pepperoni. -->","completion":" Mushroom Swiss Burger, Supreme, Margherita. ###"}
+{"prompt":"Meat Lovers, Veggie would like, but not Veggie. -->","completion":" Supreme, Hawaiian, White Pizza. ###"}
+{"prompt":"Supreme, Meat Lovers, Double Cheeseburger would like, but not Double Cheeseburger. -->","completion":" BBQ Burger, White Pizza, Buffalo Chicken. ###"}
+{"prompt":"Margherita would like, but not Margherita. -->","completion":" White Pizza, BBQ Burger, Veggie. ###"}
+{"prompt":"White Pizza would like, but not White Pizza. -->","completion":" Bison Burger, Margherita, Buffalo Chicken. ###"}
+{"prompt":"Margherita would like, but not Margherita. -->","completion":" Hawaiian, Double Cheeseburger, Classic Burger. ###"}
+{"prompt":"Meat Lovers would like, but not Meat Lovers. -->","completion":" White Pizza, Mushroom, Double Cheeseburger. ###"}
+{"prompt":"Supreme, White Pizza would like, but not White Pizza. -->","completion":" Hawaiian, Mushroom Swiss Burger, Margherita. ###"}
+{"prompt":"Margherita, Veggie would like, but not Veggie. -->","completion":" Veggie Burger, Classic Burger, Pepperoni. ###"}
+{"prompt":"BBQ Burger would like, but not BBQ Burger. -->","completion":" Double Cheeseburger, Buffalo Chicken, Hawaiian. ###"}
+{"prompt":"Mushroom Swiss Burger would like, but not Mushroom Swiss Burger. -->","completion":" Bison Burger, BBQ Burger, Mushroom. ###"}
+{"prompt":"BBQ Burger would like, but not BBQ Burger. -->","completion":" Buffalo Chicken, Bacon Cheeseburger, Mushroom Swiss Burger. ###"}
+{"prompt":"Hawaiian, Supreme would like, but not Supreme. -->","completion":" Pepperoni, White Pizza, Veggie Burger. ###"}
+{"prompt":"Hawaiian would like, but not Hawaiian. -->","completion":" Mushroom Swiss Burger, Bacon Cheeseburger, Pepperoni. ###"}
+{"prompt":"Margherita would like, but not Margherita. -->","completion":" BBQ Chicken, Supreme, White Pizza. ###"}
+{"prompt":"BBQ Chicken would like, but not BBQ Chicken. -->","completion":" Mushroom, Hawaiian, Veggie Burger. ###"}
+{"prompt":"Hawaiian, Veggie Burger, BBQ Chicken would like, but not BBQ Chicken. -->","completion":" Veggie, Bacon Cheeseburger, Pepperoni. ###"}
+{"prompt":"White Pizza, Buffalo Chicken, Bison Burger would like, but not Bison Burger. -->","completion":" BBQ Chicken, Mushroom Swiss Burger, Veggie Burger. ###"}
+{"prompt":"Double Cheeseburger would like, but not Double Cheeseburger. -->","completion":" Veggie Burger, Classic Burger, Bacon Cheeseburger. ###"}
+{"prompt":"Classic Burger would like, but not Classic Burger. -->","completion":" BBQ Burger, Meat Lovers, Margherita. ###"}
+{"prompt":"Supreme, Margherita, Classic Burger would like, but not Classic Burger. -->","completion":" Veggie, Buffalo Chicken, BBQ Chicken. ###"}
+{"prompt":"Veggie Burger, Pepperoni, Margherita would like, but not Margherita. -->","completion":" Bison Burger, Double Cheeseburger, Hawaiian. ###"}
+{"prompt":"Bacon Cheeseburger, Veggie, BBQ Chicken would like, but not BBQ Chicken. -->","completion":" Classic Burger, Double Cheeseburger, Bison Burger. ###"}
+{"prompt":"Double Cheeseburger, Bacon Cheeseburger would like, but not Bacon Cheeseburger. -->","completion":" Margherita, BBQ Chicken, Bison Burger. ###"}
+{"prompt":"Mushroom Swiss Burger, Hawaiian would like, but not Hawaiian. -->","completion":" Bacon Cheeseburger, BBQ Chicken, Meat Lovers. ###"}
+{"prompt":"Supreme, BBQ Burger would like, but not BBQ Burger. -->","completion":" White Pizza, BBQ Chicken, Meat Lovers. ###"}
+{"prompt":"Supreme, White Pizza would like, but not White Pizza. -->","completion":" Hawaiian, Pepperoni, Mushroom. ###"}
+{"prompt":"BBQ Chicken, Mushroom, BBQ Burger would like, but not BBQ Burger. -->","completion":" Veggie Burger, Bison Burger, Classic Burger. ###"}
+{"prompt":"Veggie Burger, Hawaiian would like, but not Hawaiian. -->","completion":" Meat Lovers, BBQ Chicken, BBQ Burger. ###"}
+{"prompt":"Bison Burger would like, but not Bison Burger. -->","completion":" Veggie, Veggie Burger, Margherita. ###"}
+{"prompt":"Meat Lovers, BBQ Chicken would like, but not BBQ Chicken. -->","completion":" Classic Burger, Hawaiian, Bison Burger. ###"}
+{"prompt":"Bison Burger would like, but not Bison Burger. -->","completion":" Pepperoni, Bacon Cheeseburger, Margherita. ###"}
+{"prompt":"Mushroom Swiss Burger, BBQ Chicken would like, but not BBQ Chicken. -->","completion":" Classic Burger, Margherita, Hawaiian. ###"}
+{"prompt":"Bacon Cheeseburger would like, but not Bacon Cheeseburger. -->","completion":" Mushroom Swiss Burger, Classic Burger, Veggie. ###"}
+{"prompt":"BBQ Burger would like, but not BBQ Burger. -->","completion":" Mushroom, Veggie Burger, Double Cheeseburger. ###"}
+{"prompt":"Buffalo Chicken, Meat Lovers would like, but not Meat Lovers. -->","completion":" Hawaiian, Margherita, White Pizza. ###"}
+{"prompt":"Supreme, Buffalo Chicken, Veggie Burger would like, but not Veggie Burger. -->","completion":" White Pizza, Mushroom Swiss Burger, Bacon Cheeseburger. ###"}
+{"prompt":"Veggie, BBQ Burger, Veggie Burger would like, but not Veggie Burger. -->","completion":" Double Cheeseburger, Buffalo Chicken, Meat Lovers. ###"}
+{"prompt":"Hawaiian, Buffalo Chicken, Margherita would like, but not Margherita. -->","completion":" Meat Lovers, BBQ Burger, Double Cheeseburger. ###"}
+{"prompt":"Pepperoni would like, but not Pepperoni. -->","completion":" Mushroom Swiss Burger, Veggie, Supreme. ###"}
+{"prompt":"Veggie, Classic Burger, Bison Burger would like, but not Bison Burger. -->","completion":" Mushroom, Double Cheeseburger, BBQ Burger. ###"}
+{"prompt":"White Pizza, BBQ Chicken would like, but not BBQ Chicken. -->","completion":" Margherita, Bison Burger, Classic Burger. ###"}
+{"prompt":"Classic Burger would like, but not Classic Burger. -->","completion":" BBQ Burger, Veggie Burger, Hawaiian. ###"}
+{"prompt":"Meat Lovers would like, but not Meat Lovers. -->","completion":" Mushroom Swiss Burger, BBQ Chicken, Classic Burger. ###"}
+{"prompt":"Mushroom, White Pizza, BBQ Burger would like, but not BBQ Burger. -->","completion":" Supreme, Buffalo Chicken, Meat Lovers. ###"}
+{"prompt":"Veggie Burger would like, but not Veggie Burger. -->","completion":" BBQ Burger, Veggie, Mushroom. ###"}
+{"prompt":"Veggie Burger would like, but not Veggie Burger. -->","completion":" Veggie, Buffalo Chicken, BBQ Burger. ###"}
+{"prompt":"Meat Lovers, Bacon Cheeseburger, Veggie would like, but not Veggie. -->","completion":" Pepperoni, White Pizza, BBQ Burger. ###"}
+{"prompt":"Hawaiian, Mushroom, White Pizza would like, but not White Pizza. -->","completion":" BBQ Burger, Classic Burger, Bison Burger. ###"}
+{"prompt":"Margherita would like, but not Margherita. -->","completion":" Hawaiian, Buffalo Chicken, Mushroom. ###"}
+{"prompt":"Mushroom, Veggie would like, but not Veggie. -->","completion":" Pepperoni, White Pizza, Mushroom Swiss Burger. ###"}
+{"prompt":"Veggie Burger, Double Cheeseburger, Classic Burger would like, but not Classic Burger. -->","completion":" Veggie, Supreme, Mushroom Swiss Burger. ###"}
+{"prompt":"Classic Burger, Supreme, Bacon Cheeseburger would like, but not Bacon Cheeseburger. -->","completion":" BBQ Burger, Mushroom Swiss Burger, BBQ Chicken. ###"}
+{"prompt":"Pepperoni, Hawaiian would like, but not Hawaiian. -->","completion":" BBQ Chicken, Margherita, Supreme. ###"}
+{"prompt":"Mushroom Swiss Burger, BBQ Chicken would like, but not BBQ Chicken. -->","completion":" Hawaiian, Veggie, Mushroom. ###"}
+{"prompt":"Supreme would like, but not Supreme. -->","completion":" BBQ Burger, Meat Lovers, Mushroom Swiss Burger. ###"}
+{"prompt":"BBQ Chicken would like, but not BBQ Chicken. -->","completion":" Veggie Burger, Supreme, Mushroom. ###"}
+{"prompt":"Double Cheeseburger, Meat Lovers, Bison Burger would like, but not Bison Burger. -->","completion":" Veggie Burger, Bacon Cheeseburger, Pepperoni. ###"}
+{"prompt":"White Pizza would like, but not White Pizza. -->","completion":" Hawaiian, Bison Burger, Bacon Cheeseburger. ###"}
+{"prompt":"Margherita would like, but not Margherita. -->","completion":" Bison Burger, Hawaiian, Meat Lovers. ###"}
+{"prompt":"Mushroom Swiss Burger, Meat Lovers would like, but not Meat Lovers. -->","completion":" Bacon Cheeseburger, Supreme, Veggie. ###"}
+{"prompt":"Double Cheeseburger would like, but not Double Cheeseburger. -->","completion":" BBQ Chicken, Margherita, Buffalo Chicken. ###"}
+{"prompt":"BBQ Chicken would like, but not BBQ Chicken. -->","completion":" Mushroom, Mushroom Swiss Burger, Veggie. ###"}
+{"prompt":"Veggie, Classic Burger, Bison Burger would like, but not Bison Burger. -->","completion":" Supreme, Bacon Cheeseburger, Margherita. ###"}
+{"prompt":"Veggie, Supreme, Margherita would like, but not Margherita. -->","completion":" Pepperoni, Buffalo Chicken, Meat Lovers. ###"}
+{"prompt":"Hawaiian, Mushroom Swiss Burger, BBQ Burger would like, but not BBQ Burger. -->","completion":" Meat Lovers, Double Cheeseburger, Pepperoni. ###"}
+{"prompt":"Veggie Burger, BBQ Chicken would like, but not BBQ Chicken. -->","completion":" Margherita, Double Cheeseburger, Veggie. ###"}
+{"prompt":"Veggie, Mushroom Swiss Burger, Hawaiian would like, but not Hawaiian. -->","completion":" BBQ Chicken, Buffalo Chicken, Meat Lovers. ###"}
+{"prompt":"Margherita, Veggie would like, but not Veggie. -->","completion":" Bison Burger, Pepperoni, Bacon Cheeseburger. ###"}
+{"prompt":"BBQ Burger would like, but not BBQ Burger. -->","completion":" Buffalo Chicken, Double Cheeseburger, Mushroom Swiss Burger. ###"}
+{"prompt":"White Pizza, Meat Lovers, Veggie Burger would like, but not Veggie Burger. -->","completion":" Supreme, Margherita, Pepperoni. ###"}
+{"prompt":"Supreme, Pepperoni would like, but not Pepperoni. -->","completion":" BBQ Burger, Margherita, Mushroom Swiss Burger. ###"}
+{"prompt":"Mushroom Swiss Burger, Double Cheeseburger would like, but not Double Cheeseburger. -->","completion":" BBQ Chicken, Classic Burger, Supreme. ###"}
+{"prompt":"BBQ Burger would like, but not BBQ Burger. -->","completion":" Mushroom Swiss Burger, Bison Burger, Supreme. ###"}
+{"prompt":"Double Cheeseburger would like, but not Double Cheeseburger. -->","completion":" Hawaiian, BBQ Burger, Veggie. ###"}
+{"prompt":"Pepperoni, Meat Lovers would like, but not Meat Lovers. -->","completion":" Mushroom, Veggie, Classic Burger. ###"}
+{"prompt":"Double Cheeseburger would like, but not Double Cheeseburger. -->","completion":" Supreme, BBQ Chicken, Hawaiian. ###"}
+{"prompt":"Buffalo Chicken would like, but not Buffalo Chicken. -->","completion":" Mushroom, Pepperoni, Margherita. ###"}
+{"prompt":"White Pizza, Hawaiian, Supreme would like, but not Supreme. -->","completion":" Buffalo Chicken, Margherita, Pepperoni. ###"}
+{"prompt":"Buffalo Chicken would like, but not Buffalo Chicken. -->","completion":" Bacon Cheeseburger, Veggie Burger, Double Cheeseburger. ###"}
+{"prompt":"Buffalo Chicken, Bison Burger, Veggie would like, but not Veggie. -->","completion":" Pepperoni, Veggie Burger, Hawaiian. ###"}
+{"prompt":"Meat Lovers, Hawaiian would like, but not Hawaiian. -->","completion":" Buffalo Chicken, Pepperoni, Bison Burger. ###"}
+{"prompt":"White Pizza, Veggie Burger would like, but not Veggie Burger. -->","completion":" Meat Lovers, BBQ Burger, Mushroom Swiss Burger. ###"}
+{"prompt":"White Pizza, Bison Burger would like, but not Bison Burger. -->","completion":" Veggie, Classic Burger, Buffalo Chicken. ###"}
+{"prompt":"Mushroom would like, but not Mushroom. -->","completion":" Bison Burger, Mushroom Swiss Burger, Margherita. ###"}
+{"prompt":"Double Cheeseburger would like, but not Double Cheeseburger. -->","completion":" Pepperoni, Veggie, BBQ Chicken. ###"}
+{"prompt":"Mushroom Swiss Burger, Margherita, Buffalo Chicken would like, but not Buffalo Chicken. -->","completion":" Pepperoni, Veggie, Double Cheeseburger. ###"}
+{"prompt":"Mushroom, Buffalo Chicken, Hawaiian would like, but not Hawaiian. -->","completion":" Supreme, Classic Burger, Bacon Cheeseburger. ###"}
+{"prompt":"Margherita, Meat Lovers, Mushroom Swiss Burger would like, but not Mushroom Swiss Burger. -->","completion":" White Pizza, Classic Burger, Mushroom. ###"}
+{"prompt":"White Pizza would like, but not White Pizza. -->","completion":" Meat Lovers, Classic Burger, Bison Burger. ###"}
+{"prompt":"Bacon Cheeseburger, Supreme, Pepperoni would like, but not Pepperoni. -->","completion":" Mushroom Swiss Burger, Classic Burger, Bison Burger. ###"}
+{"prompt":"Buffalo Chicken, Classic Burger would like, but not Classic Burger. -->","completion":" White Pizza, Mushroom Swiss Burger, Bison Burger. ###"}
+{"prompt":"Buffalo Chicken, Pepperoni, Meat Lovers would like, but not Meat Lovers. -->","completion":" White Pizza, Bacon Cheeseburger, Supreme. ###"}
+{"prompt":"Hawaiian, BBQ Burger, Mushroom would like, but not Mushroom. -->","completion":" Meat Lovers, Supreme, Margherita. ###"}
+{"prompt":"Meat Lovers would like, but not Meat Lovers. -->","completion":" Hawaiian, BBQ Burger, Pepperoni. ###"}
+{"prompt":"White Pizza would like, but not White Pizza. -->","completion":" BBQ Burger, Bison Burger, Buffalo Chicken. ###"}
+{"prompt":"Classic Burger would like, but not Classic Burger. -->","completion":" Mushroom, Supreme, Double Cheeseburger. ###"}
+{"prompt":"Bacon Cheeseburger, Mushroom Swiss Burger would like, but not Mushroom Swiss Burger. -->","completion":" Double Cheeseburger, Classic Burger, Bison Burger. ###"}
+{"prompt":"Veggie Burger would like, but not Veggie Burger. -->","completion":" Bison Burger, BBQ Burger, Classic Burger. ###"}
+{"prompt":"Margherita would like, but not Margherita. -->","completion":" Veggie Burger, BBQ Chicken, Double Cheeseburger. ###"}
+{"prompt":"Veggie Burger, Double Cheeseburger, White Pizza would like, but not White Pizza. -->","completion":" Classic Burger, Pepperoni, Margherita. ###"}
+{"prompt":"Veggie Burger, Meat Lovers would like, but not Meat Lovers. -->","completion":" Pepperoni, Margherita, Bison Burger. ###"}
+{"prompt":"Double Cheeseburger, Meat Lovers would like, but not Meat Lovers. -->","completion":" Hawaiian, Veggie, Buffalo Chicken. ###"}
+{"prompt":"Mushroom would like, but not Mushroom. -->","completion":" Classic Burger, Bison Burger, BBQ Chicken. ###"}
+{"prompt":"Supreme, Classic Burger would like, but not Classic Burger. -->","completion":" Mushroom, Veggie, Buffalo Chicken. ###"}
+{"prompt":"Classic Burger would like, but not Classic Burger. -->","completion":" Mushroom, BBQ Burger, Hawaiian. ###"}
+{"prompt":"Double Cheeseburger, Margherita, Bison Burger would like, but not Bison Burger. -->","completion":" Classic Burger, Bacon Cheeseburger, Veggie Burger. ###"}
+{"prompt":"Bison Burger, Veggie would like, but not Veggie. -->","completion":" Margherita, Supreme, Veggie Burger. ###"}
+{"prompt":"Classic Burger, BBQ Chicken would like, but not BBQ Chicken. -->","completion":" Veggie Burger, Meat Lovers, Margherita. ###"}
+{"prompt":"Bacon Cheeseburger would like, but not Bacon Cheeseburger. -->","completion":" Buffalo Chicken, Veggie Burger, Pepperoni. ###"}
+{"prompt":"Mushroom Swiss Burger, Meat Lovers would like, but not Meat Lovers. -->","completion":" Bison Burger, Pepperoni, Mushroom. ###"}
+{"prompt":"BBQ Chicken, Veggie Burger would like, but not Veggie Burger. -->","completion":" Meat Lovers, Double Cheeseburger, Supreme. ###"}
+{"prompt":"Veggie Burger would like, but not Veggie Burger. -->","completion":" BBQ Burger, Hawaiian, Pepperoni. ###"}
+{"prompt":"Double Cheeseburger would like, but not Double Cheeseburger. -->","completion":" Hawaiian, BBQ Burger, Meat Lovers. ###"}
+{"prompt":"Veggie Burger, Hawaiian, Buffalo Chicken would like, but not Buffalo Chicken. -->","completion":" BBQ Chicken, Bison Burger, Mushroom Swiss Burger. ###"}
+{"prompt":"Double Cheeseburger would like, but not Double Cheeseburger. -->","completion":" Buffalo Chicken, Meat Lovers, BBQ Burger. ###"}
+{"prompt":"Classic Burger, Supreme would like, but not Supreme. -->","completion":" BBQ Chicken, Double Cheeseburger, Bacon Cheeseburger. ###"}
+{"prompt":"White Pizza, Hawaiian, BBQ Chicken would like, but not BBQ Chicken. -->","completion":" Mushroom, Classic Burger, Pepperoni. ###"}
+{"prompt":"Classic Burger would like, but not Classic Burger. -->","completion":" Mushroom Swiss Burger, Buffalo Chicken, Double Cheeseburger. ###"}
+{"prompt":"Classic Burger, BBQ Chicken, Buffalo Chicken would like, but not Buffalo Chicken. -->","completion":" Hawaiian, Veggie Burger, Double Cheeseburger. ###"}
+{"prompt":"Bacon Cheeseburger would like, but not Bacon Cheeseburger. -->","completion":" Hawaiian, White Pizza, Veggie. ###"}
+{"prompt":"Meat Lovers would like, but not Meat Lovers. -->","completion":" Veggie, Double Cheeseburger, Veggie Burger. ###"}
+{"prompt":"Veggie Burger, White Pizza would like, but not White Pizza. -->","completion":" Buffalo Chicken, Meat Lovers, Bison Burger. ###"}
+{"prompt":"Pepperoni would like, but not Pepperoni. -->","completion":" Veggie, Double Cheeseburger, Bacon Cheeseburger. ###"}
+{"prompt":"Veggie would like, but not Veggie. -->","completion":" Double Cheeseburger, White Pizza, Veggie Burger. ###"}
+{"prompt":"BBQ Chicken, Mushroom Swiss Burger, Meat Lovers would like, but not Meat Lovers. -->","completion":" Supreme, Bison Burger, Bacon Cheeseburger. ###"}
+{"prompt":"Veggie would like, but not Veggie. -->","completion":" Classic Burger, Meat Lovers, Double Cheeseburger. ###"}
+{"prompt":"Margherita would like, but not Margherita. -->","completion":" Pepperoni, Double Cheeseburger, Mushroom. ###"}
+{"prompt":"Classic Burger, Hawaiian, Veggie Burger would like, but not Veggie Burger. -->","completion":" Double Cheeseburger, Margherita, BBQ Chicken. ###"}
+{"prompt":"Double Cheeseburger would like, but not Double Cheeseburger. -->","completion":" Margherita, BBQ Chicken, Veggie Burger. ###"}
+{"prompt":"Meat Lovers, Classic Burger, Bison Burger would like, but not Bison Burger. -->","completion":" BBQ Chicken, White Pizza, Bacon Cheeseburger. ###"}
+{"prompt":"Classic Burger, Veggie, Hawaiian would like, but not Hawaiian. -->","completion":" Meat Lovers, Bison Burger, White Pizza. ###"}
+{"prompt":"Supreme, Veggie would like, but not Veggie. -->","completion":" Margherita, White Pizza, Meat Lovers. ###"}
+{"prompt":"Double Cheeseburger, Pepperoni would like, but not Pepperoni. -->","completion":" Classic Burger, Hawaiian, Mushroom. ###"}
+{"prompt":"Classic Burger, Hawaiian would like, but not Hawaiian. -->","completion":" Mushroom Swiss Burger, Buffalo Chicken, Meat Lovers. ###"}
+{"prompt":"Hawaiian, Pepperoni would like, but not Pepperoni. -->","completion":" Buffalo Chicken, Supreme, Veggie. ###"}
+{"prompt":"Margherita, BBQ Chicken would like, but not BBQ Chicken. -->","completion":" Meat Lovers, Mushroom Swiss Burger, Mushroom. ###"}
+{"prompt":"Veggie, Classic Burger would like, but not Classic Burger. -->","completion":" Margherita, Mushroom Swiss Burger, BBQ Chicken. ###"}
+{"prompt":"BBQ Burger would like, but not BBQ Burger. -->","completion":" Bison Burger, Veggie, Bacon Cheeseburger. ###"}
+{"prompt":"Margherita, Mushroom Swiss Burger would like, but not Mushroom Swiss Burger. -->","completion":" White Pizza, Meat Lovers, Pepperoni. ###"}
+{"prompt":"Buffalo Chicken, Mushroom Swiss Burger, Hawaiian would like, but not Hawaiian. -->","completion":" BBQ Burger, Double Cheeseburger, Supreme. ###"}
+{"prompt":"Hawaiian, Mushroom Swiss Burger, Mushroom would like, but not Mushroom. -->","completion":" Bacon Cheeseburger, Pepperoni, Classic Burger. ###"}
+{"prompt":"BBQ Burger would like, but not BBQ Burger. -->","completion":" Margherita, Buffalo Chicken, Veggie. ###"}
+{"prompt":"Buffalo Chicken would like, but not Buffalo Chicken. -->","completion":" Veggie Burger, Veggie, Supreme. ###"}
+{"prompt":"BBQ Chicken, Mushroom would like, but not Mushroom. -->","completion":" Hawaiian, Veggie Burger, Pepperoni. ###"}
+{"prompt":"BBQ Burger, Mushroom Swiss Burger would like, but not Mushroom Swiss Burger. -->","completion":" Bison Burger, Meat Lovers, Double Cheeseburger. ###"}
+{"prompt":"Veggie Burger would like, but not Veggie Burger. -->","completion":" Mushroom Swiss Burger, BBQ Burger, BBQ Chicken. ###"}
+{"prompt":"Double Cheeseburger, Veggie Burger would like, but not Veggie Burger. -->","completion":" BBQ Chicken, Mushroom Swiss Burger, Veggie. ###"}
+{"prompt":"Classic Burger, Pepperoni would like, but not Pepperoni. -->","completion":" White Pizza, Double Cheeseburger, Bacon Cheeseburger. ###"}
+{"prompt":"Veggie would like, but not Veggie. -->","completion":" Classic Burger, Double Cheeseburger, White Pizza. ###"}
+{"prompt":"BBQ Chicken, Meat Lovers would like, but not Meat Lovers. -->","completion":" Pepperoni, Veggie, Buffalo Chicken. ###"}
+{"prompt":"White Pizza, Mushroom Swiss Burger would like, but not Mushroom Swiss Burger. -->","completion":" Veggie Burger, Supreme, Bacon Cheeseburger. ###"}
+{"prompt":"BBQ Burger, Classic Burger would like, but not Classic Burger. -->","completion":" Margherita, BBQ Chicken, Veggie Burger. ###"}
+{"prompt":"Margherita would like, but not Margherita. -->","completion":" Veggie Burger, Veggie, Hawaiian. ###"}
+{"prompt":"Buffalo Chicken, White Pizza would like, but not White Pizza. -->","completion":" Bacon Cheeseburger, Margherita, BBQ Chicken. ###"}
+{"prompt":"Classic Burger would like, but not Classic Burger. -->","completion":" BBQ Burger, Bison Burger, Veggie. ###"}
+{"prompt":"Hawaiian, Mushroom would like, but not Mushroom. -->","completion":" Supreme, Pepperoni, Classic Burger. ###"}
+{"prompt":"Veggie Burger, Pepperoni, Margherita would like, but not Margherita. -->","completion":" Mushroom Swiss Burger, Bison Burger, Veggie. ###"}
+{"prompt":"Buffalo Chicken would like, but not Buffalo Chicken. -->","completion":" BBQ Chicken, Bacon Cheeseburger, Bison Burger. ###"}
+{"prompt":"Margherita, BBQ Burger would like, but not BBQ Burger. -->","completion":" Classic Burger, Hawaiian, Bacon Cheeseburger. ###"}
+{"prompt":"Mushroom Swiss Burger, Hawaiian would like, but not Hawaiian. -->","completion":" Mushroom, Veggie Burger, Bison Burger. ###"}
+{"prompt":"Meat Lovers would like, but not Meat Lovers. -->","completion":" Supreme, Veggie, Hawaiian. ###"}
+{"prompt":"Veggie Burger would like, but not Veggie Burger. -->","completion":" Supreme, Classic Burger, Veggie. ###"}
+{"prompt":"Buffalo Chicken, Supreme, Veggie would like, but not Veggie. -->","completion":" BBQ Chicken, Mushroom, Margherita. ###"}
+{"prompt":"Margherita would like, but not Margherita. -->","completion":" Mushroom Swiss Burger, Classic Burger, White Pizza. ###"}
+{"prompt":"Veggie Burger, BBQ Chicken would like, but not BBQ Chicken. -->","completion":" Hawaiian, Pepperoni, Buffalo Chicken. ###"}
+{"prompt":"Bison Burger, Double Cheeseburger, Margherita would like, but not Margherita. -->","completion":" Veggie Burger, Classic Burger, Meat Lovers. ###"}
+{"prompt":"Bison Burger, BBQ Burger would like, but not BBQ Burger. -->","completion":" Supreme, Buffalo Chicken, Bacon Cheeseburger. ###"}
+{"prompt":"Hawaiian would like, but not Hawaiian. -->","completion":" Mushroom, White Pizza, Bacon Cheeseburger. ###"}
+{"prompt":"Hawaiian, Buffalo Chicken, Classic Burger would like, but not Classic Burger. -->","completion":" Veggie, Supreme, Bacon Cheeseburger. ###"}
+{"prompt":"Bacon Cheeseburger would like, but not Bacon Cheeseburger. -->","completion":" Veggie, Veggie Burger, Pepperoni. ###"}
+{"prompt":"Veggie, Mushroom Swiss Burger, Meat Lovers would like, but not Meat Lovers. -->","completion":" BBQ Chicken, Classic Burger, Veggie Burger. ###"}
+{"prompt":"Supreme, Bacon Cheeseburger, Veggie Burger would like, but not Veggie Burger. -->","completion":" BBQ Burger, Veggie, Hawaiian. ###"}
+{"prompt":"Classic Burger, Mushroom Swiss Burger would like, but not Mushroom Swiss Burger. -->","completion":" Pepperoni, BBQ Chicken, Mushroom. ###"}
+{"prompt":"White Pizza, Mushroom, Veggie Burger would like, but not Veggie Burger. -->","completion":" Veggie, Pepperoni, Classic Burger. ###"}
+{"prompt":"Bison Burger, Veggie, Pepperoni would like, but not Pepperoni. -->","completion":" Margherita, BBQ Burger, Double Cheeseburger. ###"}
+{"prompt":"Margherita, Hawaiian would like, but not Hawaiian. -->","completion":" Buffalo Chicken, Bacon Cheeseburger, Mushroom. ###"}
+{"prompt":"Meat Lovers, Mushroom, BBQ Burger would like, but not BBQ Burger. -->","completion":" White Pizza, Veggie, Buffalo Chicken. ###"}
+{"prompt":"Double Cheeseburger would like, but not Double Cheeseburger. -->","completion":" Bison Burger, BBQ Chicken, Mushroom. ###"}
+{"prompt":"Bison Burger would like, but not Bison Burger. -->","completion":" Veggie, Supreme, Buffalo Chicken. ###"}
+{"prompt":"Meat Lovers, White Pizza, Mushroom would like, but not Mushroom. -->","completion":" BBQ Chicken, Bison Burger, Double Cheeseburger. ###"}
+{"prompt":"Double Cheeseburger, Bacon Cheeseburger, BBQ Chicken would like, but not BBQ Chicken. -->","completion":" Mushroom Swiss Burger, Veggie, Buffalo Chicken. ###"}
+{"prompt":"BBQ Burger would like, but not BBQ Burger. -->","completion":" Supreme, Hawaiian, BBQ Chicken. ###"}
+{"prompt":"Hawaiian, Mushroom Swiss Burger, Classic Burger would like, but not Classic Burger. -->","completion":" Buffalo Chicken, Double Cheeseburger, Veggie. ###"}
+{"prompt":"Pepperoni, Supreme would like, but not Supreme. -->","completion":" Bacon Cheeseburger, White Pizza, Mushroom Swiss Burger. ###"}
+{"prompt":"Classic Burger, Pepperoni, Veggie would like, but not Veggie. -->","completion":" Hawaiian, White Pizza, BBQ Chicken. ###"}
+{"prompt":"Classic Burger, Buffalo Chicken would like, but not Buffalo Chicken. -->","completion":" Mushroom, Double Cheeseburger, Meat Lovers. ###"}
+{"prompt":"Meat Lovers, Pepperoni, Bison Burger would like, but not Bison Burger. -->","completion":" Bacon Cheeseburger, Double Cheeseburger, Veggie. ###"}
+{"prompt":"Veggie, Pepperoni, Bison Burger would like, but not Bison Burger. -->","completion":" Veggie Burger, Meat Lovers, BBQ Chicken. ###"}
+{"prompt":"Meat Lovers, Buffalo Chicken would like, but not Buffalo Chicken. -->","completion":" Double Cheeseburger, Bison Burger, BBQ Chicken. ###"}
+{"prompt":"White Pizza, BBQ Burger, Veggie Burger would like, but not Veggie Burger. -->","completion":" Hawaiian, Classic Burger, Veggie. ###"}
+{"prompt":"Meat Lovers, Mushroom Swiss Burger would like, but not Mushroom Swiss Burger. -->","completion":" Double Cheeseburger, Bacon Cheeseburger, Mushroom. ###"}
+{"prompt":"Mushroom Swiss Burger would like, but not Mushroom Swiss Burger. -->","completion":" Classic Burger, Buffalo Chicken, Pepperoni. ###"}
+{"prompt":"Hawaiian would like, but not Hawaiian. -->","completion":" Pepperoni, Buffalo Chicken, Meat Lovers. ###"}
+{"prompt":"Margherita would like, but not Margherita. -->","completion":" Bacon Cheeseburger, Buffalo Chicken, Supreme. ###"}
+{"prompt":"Mushroom Swiss Burger, Supreme, Hawaiian would like, but not Hawaiian. -->","completion":" White Pizza, Buffalo Chicken, Veggie Burger. ###"}
+{"prompt":"Bacon Cheeseburger, Margherita would like, but not Margherita. -->","completion":" Meat Lovers, Mushroom, White Pizza. ###"}
+{"prompt":"Veggie would like, but not Veggie. -->","completion":" Meat Lovers, Mushroom Swiss Burger, Double Cheeseburger. ###"}
+{"prompt":"Mushroom Swiss Burger, BBQ Chicken, Bison Burger would like, but not Bison Burger. -->","completion":" Margherita, White Pizza, BBQ Burger. ###"}
+{"prompt":"BBQ Chicken would like, but not BBQ Chicken. -->","completion":" Pepperoni, BBQ Burger, Mushroom Swiss Burger. ###"}
+{"prompt":"Meat Lovers, Pepperoni, BBQ Burger would like, but not BBQ Burger. -->","completion":" Bison Burger, Bacon Cheeseburger, Mushroom. ###"}
+{"prompt":"Bacon Cheeseburger, BBQ Burger would like, but not BBQ Burger. -->","completion":" Buffalo Chicken, Supreme, Margherita. ###"}
+{"prompt":"Margherita would like, but not Margherita. -->","completion":" Pepperoni, Double Cheeseburger, Bacon Cheeseburger. ###"}
+{"prompt":"Buffalo Chicken, Meat Lovers, Classic Burger would like, but not Classic Burger. -->","completion":" Pepperoni, Veggie, Supreme. ###"}
+{"prompt":"Hawaiian, Pepperoni would like, but not Pepperoni. -->","completion":" Buffalo Chicken, Bacon Cheeseburger, Bison Burger. ###"}
+{"prompt":"Bison Burger, Meat Lovers would like, but not Meat Lovers. -->","completion":" Bacon Cheeseburger, White Pizza, Mushroom. ###"}
+{"prompt":"Margherita, BBQ Burger, Veggie Burger would like, but not Veggie Burger. -->","completion":" Buffalo Chicken, Veggie, BBQ Chicken. ###"}
+{"prompt":"Bison Burger would like, but not Bison Burger. -->","completion":" Hawaiian, BBQ Burger, Margherita. ###"}
+{"prompt":"Veggie Burger, Meat Lovers, BBQ Burger would like, but not BBQ Burger. -->","completion":" Pepperoni, Veggie, Supreme. ###"}
+{"prompt":"Hawaiian, Bacon Cheeseburger would like, but not Bacon Cheeseburger. -->","completion":" Veggie, Buffalo Chicken, Margherita. ###"}
+{"prompt":"BBQ Chicken, Bison Burger would like, but not Bison Burger. -->","completion":" Mushroom, BBQ Burger, Supreme. ###"}
+{"prompt":"Pepperoni, Meat Lovers would like, but not Meat Lovers. -->","completion":" Mushroom Swiss Burger, Buffalo Chicken, Double Cheeseburger. ###"}
+{"prompt":"Hawaiian, Supreme would like, but not Supreme. -->","completion":" Veggie, Bacon Cheeseburger, Mushroom Swiss Burger. ###"}
+{"prompt":"White Pizza would like, but not White Pizza. -->","completion":" Margherita, Veggie, Classic Burger. ###"}
+{"prompt":"Bacon Cheeseburger would like, but not Bacon Cheeseburger. -->","completion":" Meat Lovers, Bison Burger, Supreme. ###"}
+{"prompt":"BBQ Chicken, Bison Burger, Supreme would like, but not Supreme. -->","completion":" Hawaiian, Meat Lovers, Bacon Cheeseburger. ###"}
+{"prompt":"Hawaiian, BBQ Chicken, Meat Lovers would like, but not Meat Lovers. -->","completion":" Supreme, Veggie, Bacon Cheeseburger. ###"}
+{"prompt":"Margherita would like, but not Margherita. -->","completion":" Hawaiian, Double Cheeseburger, Bison Burger. ###"}
+{"prompt":"Supreme, Hawaiian would like, but not Hawaiian. -->","completion":" BBQ Chicken, Double Cheeseburger, BBQ Burger. ###"}
+{"prompt":"Pepperoni would like, but not Pepperoni. -->","completion":" Double Cheeseburger, Veggie Burger, Supreme. ###"}
+{"prompt":"Veggie Burger, Mushroom would like, but not Mushroom. -->","completion":" Bacon Cheeseburger, Buffalo Chicken, BBQ Chicken. ###"}
+{"prompt":"Bison Burger, Mushroom would like, but not Mushroom. -->","completion":" Veggie Burger, Supreme, Margherita. ###"}
+{"prompt":"Double Cheeseburger would like, but not Double Cheeseburger. -->","completion":" BBQ Burger, BBQ Chicken, Supreme. ###"}
+{"prompt":"Veggie, Veggie Burger, Hawaiian would like, but not Hawaiian. -->","completion":" Pepperoni, Meat Lovers, Buffalo Chicken. ###"}
+{"prompt":"Meat Lovers, White Pizza would like, but not White Pizza. -->","completion":" Hawaiian, BBQ Burger, Supreme. ###"}
+{"prompt":"Margherita, White Pizza would like, but not White Pizza. -->","completion":" Pepperoni, Buffalo Chicken, Bacon Cheeseburger. ###"}
+{"prompt":"Hawaiian, BBQ Burger would like, but not BBQ Burger. -->","completion":" Veggie Burger, Mushroom, Double Cheeseburger. ###"}
+{"prompt":"Mushroom, Meat Lovers would like, but not Meat Lovers. -->","completion":" Double Cheeseburger, Veggie Burger, Bacon Cheeseburger. ###"}
+{"prompt":"BBQ Chicken, Mushroom would like, but not Mushroom. -->","completion":" Margherita, Veggie, Classic Burger. ###"}
+{"prompt":"Double Cheeseburger, Mushroom Swiss Burger, BBQ Chicken would like, but not BBQ Chicken. -->","completion":" Classic Burger, Pepperoni, Veggie Burger. ###"}
+{"prompt":"White Pizza, Bacon Cheeseburger would like, but not Bacon Cheeseburger. -->","completion":" BBQ Chicken, Hawaiian, Veggie Burger. ###"}
+{"prompt":"Bacon Cheeseburger, Double Cheeseburger would like, but not Double Cheeseburger. -->","completion":" Margherita, Classic Burger, Mushroom. ###"}
+{"prompt":"Veggie, Supreme would like, but not Supreme. -->","completion":" White Pizza, Margherita, Buffalo Chicken. ###"}
+{"prompt":"Meat Lovers, Buffalo Chicken, Classic Burger would like, but not Classic Burger. -->","completion":" BBQ Chicken, Margherita, Hawaiian. ###"}
+{"prompt":"Meat Lovers, Veggie would like, but not Veggie. -->","completion":" Double Cheeseburger, Mushroom, Bison Burger. ###"}
+{"prompt":"Pepperoni, BBQ Burger would like, but not BBQ Burger. -->","completion":" Margherita, Veggie Burger, Hawaiian. ###"}
+{"prompt":"Veggie would like, but not Veggie. -->","completion":" Bacon Cheeseburger, BBQ Burger, Double Cheeseburger. ###"}
+{"prompt":"Mushroom, Pepperoni would like, but not Pepperoni. -->","completion":" Buffalo Chicken, Mushroom Swiss Burger, Veggie. ###"}
+{"prompt":"Classic Burger, BBQ Chicken, White Pizza would like, but not White Pizza. -->","completion":" BBQ Burger, Pepperoni, Hawaiian. ###"}
+{"prompt":"Veggie Burger would like, but not Veggie Burger. -->","completion":" BBQ Burger, Hawaiian, White Pizza. ###"}
+{"prompt":"Meat Lovers, Bison Burger would like, but not Bison Burger. -->","completion":" Double Cheeseburger, Mushroom, Pepperoni. ###"}
+{"prompt":"BBQ Chicken would like, but not BBQ Chicken. -->","completion":" BBQ Burger, Veggie, Bacon Cheeseburger. ###"}
+{"prompt":"White Pizza would like, but not White Pizza. -->","completion":" Margherita, Bison Burger, Classic Burger. ###"}
+{"prompt":"Veggie would like, but not Veggie. -->","completion":" Mushroom Swiss Burger, Buffalo Chicken, White Pizza. ###"}
+{"prompt":"Bacon Cheeseburger would like, but not Bacon Cheeseburger. -->","completion":" White Pizza, Bison Burger, Buffalo Chicken. ###"}
+{"prompt":"Margherita, Double Cheeseburger, Bison Burger would like, but not Bison Burger. -->","completion":" Mushroom Swiss Burger, Meat Lovers, Pepperoni. ###"}
+{"prompt":"Classic Burger, Veggie Burger would like, but not Veggie Burger. -->","completion":" Hawaiian, White Pizza, Mushroom. ###"}
+{"prompt":"Double Cheeseburger, Hawaiian would like, but not Hawaiian. -->","completion":" Mushroom, Buffalo Chicken, Mushroom Swiss Burger. ###"}
+{"prompt":"Veggie, BBQ Chicken, Margherita would like, but not Margherita. -->","completion":" BBQ Burger, Bacon Cheeseburger, Supreme. ###"}
+{"prompt":"Bison Burger, Double Cheeseburger, Bacon Cheeseburger would like, but not Bacon Cheeseburger. -->","completion":" Buffalo Chicken, BBQ Burger, White Pizza. ###"}
+{"prompt":"Hawaiian, BBQ Burger would like, but not BBQ Burger. -->","completion":" Supreme, Mushroom, Bison Burger. ###"}
+{"prompt":"BBQ Burger, Bacon Cheeseburger would like, but not Bacon Cheeseburger. -->","completion":" Mushroom, Pepperoni, Margherita. ###"}
+{"prompt":"Bacon Cheeseburger, Meat Lovers, BBQ Burger would like, but not BBQ Burger. -->","completion":" BBQ Chicken, Supreme, Veggie Burger. ###"}
+{"prompt":"Classic Burger, Buffalo Chicken, BBQ Burger would like, but not BBQ Burger. -->","completion":" Mushroom, Pepperoni, Double Cheeseburger. ###"}
+{"prompt":"Margherita, Mushroom, Veggie Burger would like, but not Veggie Burger. -->","completion":" Veggie, Meat Lovers, Bison Burger. ###"}
+{"prompt":"Bacon Cheeseburger would like, but not Bacon Cheeseburger. -->","completion":" White Pizza, Veggie Burger, Mushroom Swiss Burger. ###"}
+{"prompt":"White Pizza would like, but not White Pizza. -->","completion":" Supreme, Buffalo Chicken, Meat Lovers. ###"}
+{"prompt":"Hawaiian would like, but not Hawaiian. -->","completion":" Veggie Burger, Mushroom Swiss Burger, Supreme. ###"}
+{"prompt":"Meat Lovers, Supreme, Veggie would like, but not Veggie. -->","completion":" Bacon Cheeseburger, Pepperoni, BBQ Burger. ###"}
+{"prompt":"Bacon Cheeseburger would like, but not Bacon Cheeseburger. -->","completion":" Bison Burger, Classic Burger, White Pizza. ###"}
+{"prompt":"Classic Burger, Margherita would like, but not Margherita. -->","completion":" White Pizza, Veggie, Buffalo Chicken. ###"}
+{"prompt":"Margherita, White Pizza, Mushroom would like, but not Mushroom. -->","completion":" Veggie, Pepperoni, Bacon Cheeseburger. ###"}
+{"prompt":"Mushroom Swiss Burger, BBQ Burger would like, but not BBQ Burger. -->","completion":" Veggie Burger, BBQ Chicken, Meat Lovers. ###"}
+{"prompt":"Mushroom Swiss Burger would like, but not Mushroom Swiss Burger. -->","completion":" Veggie, White Pizza, Meat Lovers. ###"}
+{"prompt":"BBQ Chicken, Meat Lovers, Veggie Burger would like, but not Veggie Burger. -->","completion":" Pepperoni, Mushroom, Bison Burger. ###"}
+{"prompt":"BBQ Chicken would like, but not BBQ Chicken. -->","completion":" Meat Lovers, Veggie, Bacon Cheeseburger. ###"}
+{"prompt":"White Pizza would like, but not White Pizza. -->","completion":" Mushroom, Margherita, Meat Lovers. ###"}
+{"prompt":"White Pizza, Hawaiian would like, but not Hawaiian. -->","completion":" BBQ Burger, Supreme, Meat Lovers. ###"}
+{"prompt":"BBQ Burger would like, but not BBQ Burger. -->","completion":" Classic Burger, Buffalo Chicken, Double Cheeseburger. ###"}
+{"prompt":"Mushroom, Margherita would like, but not Margherita. -->","completion":" Veggie Burger, BBQ Chicken, Veggie. ###"}
+{"prompt":"Buffalo Chicken would like, but not Buffalo Chicken. -->","completion":" Mushroom Swiss Burger, BBQ Chicken, Margherita. ###"}
+{"prompt":"White Pizza would like, but not White Pizza. -->","completion":" Mushroom Swiss Burger, Veggie, Veggie Burger. ###"}
+{"prompt":"Veggie, Classic Burger would like, but not Classic Burger. -->","completion":" Supreme, Margherita, Mushroom. ###"}
+{"prompt":"BBQ Chicken, White Pizza would like, but not White Pizza. -->","completion":" Margherita, Mushroom Swiss Burger, Veggie Burger. ###"}
+{"prompt":"Supreme, Pepperoni, Margherita would like, but not Margherita. -->","completion":" BBQ Chicken, Veggie Burger, Veggie. ###"}
+{"prompt":"Hawaiian would like, but not Hawaiian. -->","completion":" Meat Lovers, Classic Burger, Bacon Cheeseburger. ###"}
+{"prompt":"Bison Burger, Meat Lovers, Margherita would like, but not Margherita. -->","completion":" BBQ Chicken, Mushroom Swiss Burger, Bacon Cheeseburger. ###"}
+{"prompt":"Classic Burger would like, but not Classic Burger. -->","completion":" BBQ Burger, Veggie Burger, Double Cheeseburger. ###"}
+{"prompt":"Mushroom Swiss Burger, BBQ Burger, Bison Burger would like, but not Bison Burger. -->","completion":" Veggie Burger, Margherita, Pepperoni. ###"}
+{"prompt":"Margherita would like, but not Margherita. -->","completion":" White Pizza, Double Cheeseburger, BBQ Chicken. ###"}
+{"prompt":"Pepperoni, Meat Lovers would like, but not Meat Lovers. -->","completion":" Veggie Burger, White Pizza, Double Cheeseburger. ###"}
+{"prompt":"Double Cheeseburger, Meat Lovers would like, but not Meat Lovers. -->","completion":" Margherita, Bison Burger, Mushroom. ###"}
