@@ -1,0 +1,7 @@
+<p>you might like:</p>
+<div>
+    <div *ngFor="let item of productsList" (click)="navigateToProduct(item.name)">
+        <img [src]="item.image" width="100px">
+        <p>{{item.name}}</p>
+    </div>
+</div>

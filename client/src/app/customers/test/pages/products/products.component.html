@@ -1,0 +1,14 @@
+<div class="products-container">
+  <h1 class="category-title">{{categoryInput}}</h1>
+  <div class="product-list">
+    <div *ngFor="let product of products" class="product-item">
+      <a (click)="onClickGoToProduct(); onClickSpecifyProductId(product.id); onClickAddToVisitedProductsList(product.name)" class="product-link">
+        <div class="product-details">
+          <p class="product-name">{{product.name}}</p>
+          <p class="product-price">{{product.price | currency}}</p>
+        </div>
+        <img [src]="product.image" [alt]="product.name" class="product-image">
+      </a>
+    </div>
+  </div>
+</div>

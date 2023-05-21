@@ -1,0 +1,42 @@
+<main>
+  <app-header (goToHome)="setCurrentView('home')"></app-header>
+
+  <app-banner></app-banner>
+
+  <div class="menu-container">
+
+    <div *ngIf="currentView === 'home'" class="menu-items animate__animated"
+      [ngClass]="{'animate__slideInLeft': !goingBack, 'animate__slideInRight': goingBack}">
+      <div *ngFor="let category of categories$ | async" class="menu-item">
+        <a (click)="setCurrentView('products'); setCategory(category.name)" class="category-link">
+          <img [src]="category.image" class="category-image animate__animated animate__bounce" />
+          <h2 class="category-name">{{category.name}}</h2>
+        </a>
+      </div>
+    </div>
+
+    <div *ngIf="currentView === 'products'" class="animate__animated"
+      [ngClass]="{'animate__slideInLeft': goingBack, 'animate__slideInRight': !goingBack}">
+      <button (click)="setCurrentView('home'); goBack()" class="btn btn-primary go-back-btn">
+        <i class="fa-solid fa-arrow-right fa-beat" style="color: #000000;"></i>
+      </button>
+      <app-products [categoryInput]="chosenCategory" (goToProduct)="setCurrentView('product')"
+        (specifyProductId)="setProductId($event)" (addToVisitedProducts)="addVisitedProduct($event)"></app-products>
+    </div>
+
+    <div *ngIf="currentView === 'product'" class="animate__animated"
+      [ngClass]="{'animate__slideInLeft': goingBack, 'animate__slideInRight': !goingBack}">
+      <button (click)="setCurrentView('products'); goBack()" class="go-back-btn">
+        <i class="fa-solid fa-arrow-right fa-beat" style="color: #000000;"></i>
+      </button>
+      <app-product [categoryNameInput]="chosenCategory" [productIdInput]="productId"></app-product>
+      <app-might-like [categoryNameInput]="chosenCategory" 
+        [productIdInput]="productId" (goToProduct)="navigateToProduct($event)">
+      </app-might-like>
+    </div>
+
+  </div>
+
+  <app-social-media></app-social-media>
+  <app-footer></app-footer>
+</main>

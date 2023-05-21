@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "name": "burgers",
+        "image": "https://www.tastingtable.com/img/gallery/heres-how-hamburgers-got-their-name/intro-1653066580.jpg"
+    },
+    {
+        "id": 2,
+        "name": "pizzas",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpNbgIIsWpqFg4u3ughYrOXFk7db7Oi8xPNw&usqp=CAU"
+    }
+]

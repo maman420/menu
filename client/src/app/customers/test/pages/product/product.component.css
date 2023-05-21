@@ -1,0 +1,19 @@
+.product-container {
+  margin-left: 2%;
+  margin-right: 2%;
+}
+
+.product-name {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 10px;
+  }
+  
+.product-image {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+    margin-top: 10px;
+    border: 2px solid white;
+    border-radius: 10%;
+}

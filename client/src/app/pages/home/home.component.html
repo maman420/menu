@@ -1,0 +1,98 @@
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title>Digital Menu Maker - Create Beautiful Digital Menus for Restaurants and Cafes</title>
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css">
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js"></script>
+	<meta name="description"
+		content="Digital Menu Maker helps restaurants and cafes create beautiful, easy-to-use digital menus. create a seamless ordering experience for your customers.">
+</head>
+
+<body>
+	<nav class="navbar navbar-expand-lg navbar-light bg-light">
+		<div class="container-fluid">
+			<a class="navbar-brand" href="#">Navbar</a>
+			<button class="navbar-toggler" type="button" data-mdb-toggle="collapse" data-mdb-target="#navbarNav"
+				aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+				<i class="fas fa-bars"></i>
+			</button>
+			<div class="collapse navbar-collapse" id="navbarNav">
+				<ul class="navbar-nav">
+					<li class="nav-item">
+						<a class="nav-link active" aria-current="page" href="#">Home</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" (click)="scrollToElement('cta')" href="#">Features</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link" (click)="scrollToElement('pricing')" href="#">Pricing</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</nav>
+
+	<header class="header">
+		<h1>Digital Menu Maker</h1>
+		<p>We help restaurants and cafes create beautiful, easy-to-use digital menus.</p>
+	</header>
+
+	<section class="intro">
+		<h2>Introducing Digital Menus</h2>
+		<p>Our digital menus allow customers to easily view and order from your menu on their mobile devices. With our
+			platform, you can update your menu in real-time and create a seamless ordering experience for your
+			customers.</p>
+	</section>
+
+	<section class="services">
+		<h2>Our Services</h2>
+		<p>We offer a range of services to help you create and manage your digital menus:</p>
+		<ul>
+			<li>Custom menu design</li>
+			<li>Menu updates in real-time</li>
+			<li>Integration with your existing POS system</li>
+			<li>24/7 customer support</li>
+		</ul>
+	</section>
+
+	<section class="examples services" id="examples">
+		<h2>example menu's'</h2>
+		<div>
+			<a>example 1</a>
+			<a>example 2</a>
+			<a>example 3</a>
+		</div>
+	</section>
+
+	<section class="pricing services" id="pricing">
+		<h2>Pricing</h2>
+		<p>We offer affordable pricing plans to fit the needs of your business:</p>
+		<ul>
+			<li>Basic: $29.99/month - Includes custom menu design and real-time menu updates</li>
+			<li>Professional: $49.99/month - Includes Basic features plus integration with your existing POS system</li>
+			<li>Premium: $99.99/month - Includes Professional features plus priority customer support</li>
+		</ul>
+	</section>
+
+
+	<section id="cta">
+		<h2>Ready to get started?</h2>
+		<form>
+			<label for="name">
+				name:
+				<input type="text" value="שמוליק" name="name">
+			</label><br>
+			<label for="phone">
+				phone:
+				<input type="text" value="05">
+			</label><br>	
+			<button type="submit">Contact us</button>
+		</form>
+	</section>
+
+	<footer class="footer">
+		<p>&copy; 2023 Digital Menu Maker</p>
+	</footer>
+</body>

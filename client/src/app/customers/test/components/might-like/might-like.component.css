@@ -1,0 +1,17 @@
+p{
+    text-align: center;
+}
+div {
+    display: flex;
+    flex-direction: row;
+    margin: 3%;
+}
+div div {
+    display: flex;
+    flex-direction: column;
+}
+img {
+    width: 100%;
+    border-radius: 10%;
+    border: 2px solid white;
+}

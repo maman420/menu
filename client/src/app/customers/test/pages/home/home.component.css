@@ -1,0 +1,77 @@
+main {
+    background-color: black;
+    color: white;
+    width: 100%;
+    margin: 0%;
+}
+ app-header {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    width: 100%;
+}
+.go-back-btn {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 80%;
+    left: 70%;
+    width: 100px;
+    height: 50px;
+    border-radius: 100%;
+}
+app-footer {
+    position: -webkit-sticky;
+    position: sticky;
+    bottom: 0;
+    width: 100%;
+} 
+
+
+.menu-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    margin: 0%;
+    width: 100%;
+}
+
+.menu-items {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.menu-item {
+    margin: 20px;
+}
+
+.category-link {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.category-name {
+    margin-top: 10px;
+    font-size: 24px;
+}
+
+.category-image {
+    width: 300px;
+    max-width: 300px;
+    height: auto;
+    border: 2px solid white;
+    border-radius: 10%;
+}
+
+.animate__slideInLeft {
+    animation-duration: 0.8s;
+    transition: all 0.8s ease-in-out;
+}
+
+.animate__slideInRight {
+    animation-duration: 0.8s;
+    transition: all 0.8s ease-in-out;
+}
