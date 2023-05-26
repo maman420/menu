@@ -4,8 +4,6 @@ const bodyParser = require('body-parser');
 const helmet = require('helmet');
 const rateLimit = require('express-rate-limit');
 const { validationResult } = require('express-validator');
-const https = require('https');
-const fs = require('fs');
 
 const testRouter = require('./clientApi/test');
 
@@ -24,7 +22,7 @@ app.use(
 );
 
 app.use(cors({
-    origin: '*',
+    origin: 'https://red-island-05208dc03.3.azurestaticapps.net/',
     credentials: true
 }));
 
@@ -53,12 +51,7 @@ app.use((req, res, next) => {
   });
 });
 
-// Configure the server with SSL certificates
-const options = {
-  key: fs.readFileSync('certificates/key.pem'),
-  cert: fs.readFileSync('certificates/cert.pem')
-};
 
-https.createServer(options, app).listen(port, () => {
-  console.log(`Server listening on port ${port}`);
-});
+app.listen(port, () =>{
+  console.log('server is listening on port ' + port)
+})
